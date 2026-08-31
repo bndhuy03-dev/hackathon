@@ -1,4 +1,4 @@
-# hackathon
+# Hackathon (further information in "project" section)
 Huy — Tech lead / integrator. Owns the repo, protects main, reviews and merges every PR, and owns the demo build. His real job is filling whatever gap appears at hour 20, so keep his feature load lighter than Khoa's and Minh's. He also runs the live demo so a bug on stage doesn't derail whoever wrote that part.
 
 Khoa — Frontend / user-facing flow. The screens the judges actually see. The brief scores "can users interact with or clearly see how the solution works," so the UI is demo currency, not polish.
